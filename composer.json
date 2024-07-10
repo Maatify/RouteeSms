@@ -1,6 +1,6 @@
 {  "name": "maatify/routee",
   "description": "PHP library for Routee API handler, known by our team",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "library",
   "keywords": [
     "PHP",
